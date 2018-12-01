@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/bacheloroppgave/static/js/runtime~main.b9f44ad1.js"
   },
   {
-    "revision": "92b322027a8c4bfd4d5c",
-    "url": "/bacheloroppgave/static/js/main.92b32202.chunk.js"
+    "revision": "a78e02d8f913a4f446d4",
+    "url": "/bacheloroppgave/static/js/main.a78e02d8.chunk.js"
   },
   {
     "revision": "308598debfd8adf98ce6",
     "url": "/bacheloroppgave/static/js/1.308598de.chunk.js"
   },
   {
-    "revision": "6b3c9a6b04308a18bcd65ad816eead92",
+    "revision": "b1de046eb582855a7a8f75318c1b4599",
     "url": "/bacheloroppgave/index.html"
   }
 ];

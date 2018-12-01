@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/bacheloroppgave/precache-manifest.daae9eb458bce88e128c8cc9b96a59a1.js"
+  "/bacheloroppgave/precache-manifest.868266e944d8e13342d481ec88704a97.js"
 );
 
 workbox.clientsClaim();
