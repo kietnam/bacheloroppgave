@@ -1,14 +1,11 @@
 {
-  "main.css": "/bacheloroppgave/static/css/main.dcc668a9.chunk.css",
-  "main.js": "/bacheloroppgave/static/js/main.21230318.chunk.js",
-  "main.js.map": "/bacheloroppgave/static/js/main.21230318.chunk.js.map",
-  "static/js/1.2dd891c4.chunk.js": "/bacheloroppgave/static/js/1.2dd891c4.chunk.js",
-  "static/js/1.2dd891c4.chunk.js.map": "/bacheloroppgave/static/js/1.2dd891c4.chunk.js.map",
+  "main.js": "/bacheloroppgave/static/js/main.92b32202.chunk.js",
+  "main.js.map": "/bacheloroppgave/static/js/main.92b32202.chunk.js.map",
+  "static/js/1.308598de.chunk.js": "/bacheloroppgave/static/js/1.308598de.chunk.js",
+  "static/js/1.308598de.chunk.js.map": "/bacheloroppgave/static/js/1.308598de.chunk.js.map",
   "runtime~main.js": "/bacheloroppgave/static/js/runtime~main.b9f44ad1.js",
   "runtime~main.js.map": "/bacheloroppgave/static/js/runtime~main.b9f44ad1.js.map",
-  "static/media/logo.svg": "/bacheloroppgave/static/media/logo.5d5d9eef.svg",
-  "static/css/main.dcc668a9.chunk.css.map": "/bacheloroppgave/static/css/main.dcc668a9.chunk.css.map",
   "index.html": "/bacheloroppgave/index.html",
-  "precache-manifest.857b7a7d0dd29754ea4608da99fe7aed.js": "/bacheloroppgave/precache-manifest.857b7a7d0dd29754ea4608da99fe7aed.js",
+  "precache-manifest.daae9eb458bce88e128c8cc9b96a59a1.js": "/bacheloroppgave/precache-manifest.daae9eb458bce88e128c8cc9b96a59a1.js",
   "service-worker.js": "/bacheloroppgave/service-worker.js"
 }
