@@ -1,11 +1,11 @@
 {
-  "main.js": "/bacheloroppgave/static/js/main.a78e02d8.chunk.js",
-  "main.js.map": "/bacheloroppgave/static/js/main.a78e02d8.chunk.js.map",
-  "static/js/1.308598de.chunk.js": "/bacheloroppgave/static/js/1.308598de.chunk.js",
-  "static/js/1.308598de.chunk.js.map": "/bacheloroppgave/static/js/1.308598de.chunk.js.map",
-  "runtime~main.js": "/bacheloroppgave/static/js/runtime~main.b9f44ad1.js",
-  "runtime~main.js.map": "/bacheloroppgave/static/js/runtime~main.b9f44ad1.js.map",
-  "index.html": "/bacheloroppgave/index.html",
-  "precache-manifest.868266e944d8e13342d481ec88704a97.js": "/bacheloroppgave/precache-manifest.868266e944d8e13342d481ec88704a97.js",
-  "service-worker.js": "/bacheloroppgave/service-worker.js"
+  "main.js": "/static/js/main.a78e02d8.chunk.js",
+  "main.js.map": "/static/js/main.a78e02d8.chunk.js.map",
+  "static/js/1.308598de.chunk.js": "/static/js/1.308598de.chunk.js",
+  "static/js/1.308598de.chunk.js.map": "/static/js/1.308598de.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.5dd6333d625ab2d848adc7daaedbf908.js": "/precache-manifest.5dd6333d625ab2d848adc7daaedbf908.js",
+  "service-worker.js": "/service-worker.js"
 }
