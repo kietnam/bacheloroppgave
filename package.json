@@ -2,7 +2,7 @@
   "name": "react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://react.kiet.no/react",
+  "homepage": "http://kietnam.com",
   "dependencies": {
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
