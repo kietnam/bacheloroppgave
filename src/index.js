@@ -2,7 +2,7 @@ import React from 'react'
 import ReactDOM from 'react-dom';
 
 const App =() =>{
-  return <h1>Hvor fort oppdateres dette? test 3 speed</h1>
+  return <h1>Hvor fort oppdateres dette? test 4 speed. </h1>
 }
 
 class Car {
