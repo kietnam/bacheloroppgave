@@ -1,2 +1,2 @@
 (window.webpackJsonp=window.webpackJsonp||[]).push([[0],{4:function(e,t,n){e.exports=n(5)},5:function(e,t,n){"use strict";n.r(t);var o=n(2),r=n(0),s=n.n(r),c=n(3),l=n.n(c),a=function e(){Object(o.a)(this,e),this.wheels=4,this.type="Mercedes"};new a;console.log(a.wheels),l.a.render(s.a.createElement(function(){return s.a.createElement("h1",null,"Hvor fort oppdateres dette?")},null),document.getElementById("root"))}},[[4,2,1]]]);
-//# sourceMappingURL=main.a78e02d8.chunk.js.map
+//# sourceMappingURL=main.1535927b.chunk.js.map
