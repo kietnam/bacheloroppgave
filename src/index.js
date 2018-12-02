@@ -2,7 +2,7 @@ import React from 'react'
 import ReactDOM from 'react-dom';
 
 const App =() =>{
-  return <h1>Hvor fort oppdateres dette?</h1>
+  return <h1>Hvor fort oppdateres dette? skal sjkke om et funker igen</h1>
 }
 
 class Car {
