@@ -1,8 +1,8 @@
 {
-  "name": "kietnam.github.io",
+  "name": "react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://react.kiet.no/",
+  "homepage": "http://react.kiet.no/react",
   "dependencies": {
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
