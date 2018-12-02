@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{4:function(e,t,n){e.exports=n(5)},5:function(e,t,n){"use strict";n.r(t);var o=n(2),r=n(0),c=n.n(r),s=n(3),l=n.n(s),a=function e(){Object(o.a)(this,e),this.wheels=4,this.type="Mercedes"};new a;console.log(a.wheels),l.a.render(c.a.createElement(function(){return c.a.createElement("h1",null,"Hvor fort oppdateres dette? Test 5 cpanel git control. ")},null),document.getElementById("root"))}},[[4,2,1]]]);
+//# sourceMappingURL=main.38b34404.chunk.js.map
